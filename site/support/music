@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1.0">
+
+  <title>Friends of Slavens School | Music</title>
+  <meta name="description" content="Friends of Slavens School (FOSS) is a 501(c)(3) non-profit organization whose funds pay for the things at Slavens School that are not covered by Denver Public Schools.">
+  <meta name="keywords" content="Kirby,CMS,file-based">
+
+  <link href="https://fonts.googleapis.com/css?family=Fjalla+One" rel="stylesheet">
+
+  <link rel="stylesheet" href="../assets/css/main.css">
+</head>
+<body>
+
+  <header class="header cf" role="banner">
+    <a class="logo" href="../index.html">
+      <img src="../assets/images/logo-purple.png" alt="Friends of Slavens School" />
+    </a>
+    <nav role="navigation">
+
+  <ul class="menu cf">
+        <li>
+      <a  href="../about">About</a>
+
+      
+    </li>
+        <li>
+      <a  class="active" href="../support">Support</a>
+
+            <ul class="submenu">
+                <li>
+          <a href="stem">STEM</a>
+        </li>
+                <li>
+          <a href="music">Music</a>
+        </li>
+                <li>
+          <a href="art">Art</a>
+        </li>
+                <li>
+          <a href="more">And More!</a>
+        </li>
+              </ul>
+      
+    </li>
+        <li>
+      <a  href="../contact">Contact</a>
+
+      
+    </li>
+        <li>
+      <a  href="../donate">Donate</a>
+
+      
+    </li>
+      </ul>
+
+</nav>
+  </header>
+
+  <main class="main" role="main">
+
+    <h1>Music</h1>
+
+    <div class="text">
+      <p>Music is essential to full rounded education, but unfortunately gets cut early and often.  FOSS helps make sure that Music at Slavens is thriving.</p>
+<h2>Band</h2>
+<p>In the 3rd year of our Slavens Band Program, we offer beginning, intermediate and advanced band to over 60 students in 4h to 8th grade. Our band program equips students to be leaders when they enter high school music programs. As our program continues to grow, your support of FOSS will help us increase our band library so our students are challenged and inspired by great repertoire each year. You will help us purchase instruments and give scholarships to those in need. Our band students have been leaders in the DPS Citywide Honor Band as well as played with the DU pep band at Basketball night. We have taken a field trip to Metro State College Department of Music where our young musicians have been coached by music faculty and music majors.</p>
+<h2>Jazz Band</h2>
+<p>This year a middle school Jazz band is starting.</p>
+<h2>Musical Theater</h2>
+<p>In this past, FOSS has helped support The Phamaly Theather Company's work with Slavens.</p>
+<h2>Sound System</h2>
+<p>When the gymatorium was built, there weren't enough funds for a proper PA.  In order to make sure live performances can be heard in the booming gym, FOSS helped pay for the sound system.</p>
+            <figure>
+        <img src="../content/2-support/2-music/band.png" alt="Music">
+      </figure>
+          </div>
+
+    <nav class="nextprev cf" role="navigation">
+            <a class="prev" href="stem">&larr; previous</a>
+                  <a class="next" href="art">next &rarr;</a>
+          </nav>
+
+  </main>
+
+  <footer class="footer cf" role="contentinfo">
+
+    <div class="copyright">
+      <p>© 2009-2017<br />
+Friends of Slavens School<br />
+<a href="../privacy">Privacy Policy</a></p>    </div>
+
+  </footer>
+
+</body>
+</html>

@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1.0">
+
+  <title>Friends of Slavens School | Donate</title>
+  <meta name="description" content="Friends of Slavens School (FOSS) is a 501(c)(3) non-profit organization whose funds pay for the things at Slavens School that are not covered by Denver Public Schools.">
+  <meta name="keywords" content="Kirby,CMS,file-based">
+
+  <link href="https://fonts.googleapis.com/css?family=Fjalla+One" rel="stylesheet">
+
+  <link rel="stylesheet" href="assets/css/main.css">
+</head>
+<body>
+
+  <header class="header cf" role="banner">
+    <a class="logo" href="index.html">
+      <img src="assets/images/logo-purple.png" alt="Friends of Slavens School" />
+    </a>
+    <nav role="navigation">
+
+  <ul class="menu cf">
+        <li>
+      <a  href="about">About</a>
+
+      
+    </li>
+        <li>
+      <a  href="support">Support</a>
+
+            <ul class="submenu">
+                <li>
+          <a href="support/stem">STEM</a>
+        </li>
+                <li>
+          <a href="support/music">Music</a>
+        </li>
+                <li>
+          <a href="support/art">Art</a>
+        </li>
+                <li>
+          <a href="support/more">And More!</a>
+        </li>
+              </ul>
+      
+    </li>
+        <li>
+      <a  href="contact">Contact</a>
+
+      
+    </li>
+        <li>
+      <a  class="active" href="donate">Donate</a>
+
+      
+    </li>
+      </ul>
+
+</nav>
+  </header>
+
+<main class="main" role="main">
+
+    <div class="text">
+        <h1>Donate</h1>
+        <p><strong>Thank You</strong> for Considering a Tax-Deductible Donation to FOSS!</p>
+<p>Please note that donations to Friends of Slavens School may be tax deductible (EIN 84-1561434), but are not refundable.</p>
+<h2>Online</h2>
+<p>Please click on the &quot;Donate&quot; button to contribute using PayPal.</p>
+        <div class="donateForm">
+            <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+                <input type="hidden" name="cmd" value="_s-xclick">
+                <input type="hidden" name="hosted_button_id" value="3JPP9PFNGX4NN">
+                <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+                <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+            </form>
+        </div>
+
+        <h2>By Check</h2>
+<p>Checks should be made payable to <strong>Friends of Slavens School</strong> and either dropped off at the school office or sent to:</p>
+<p>Friends of Slavens School<br />
+3000 S Clayton St<br />
+Denver, CO 80210</p>    </div>
+
+</main>
+
+  <footer class="footer cf" role="contentinfo">
+
+    <div class="copyright">
+      <p>© 2009-2017<br />
+Friends of Slavens School<br />
+<a href="privacy">Privacy Policy</a></p>    </div>
+
+  </footer>
+
+</body>
+</html>

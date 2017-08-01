@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1.0">
+
+  <title>Friends of Slavens School | Contact</title>
+  <meta name="description" content="Friends of Slavens School (FOSS) is a 501(c)(3) non-profit organization whose funds pay for the things at Slavens School that are not covered by Denver Public Schools.">
+  <meta name="keywords" content="Kirby,CMS,file-based">
+
+  <link href="https://fonts.googleapis.com/css?family=Fjalla+One" rel="stylesheet">
+
+  <link rel="stylesheet" href="assets/css/main.css">
+</head>
+<body>
+
+  <header class="header cf" role="banner">
+    <a class="logo" href="index.html">
+      <img src="assets/images/logo-purple.png" alt="Friends of Slavens School" />
+    </a>
+    <nav role="navigation">
+
+  <ul class="menu cf">
+        <li>
+      <a  href="about">About</a>
+
+      
+    </li>
+        <li>
+      <a  href="support">Support</a>
+
+            <ul class="submenu">
+                <li>
+          <a href="support/stem">STEM</a>
+        </li>
+                <li>
+          <a href="support/music">Music</a>
+        </li>
+                <li>
+          <a href="support/art">Art</a>
+        </li>
+                <li>
+          <a href="support/more">And More!</a>
+        </li>
+              </ul>
+      
+    </li>
+        <li>
+      <a  class="active" href="contact">Contact</a>
+
+      
+    </li>
+        <li>
+      <a  href="donate">Donate</a>
+
+      
+    </li>
+      </ul>
+
+</nav>
+  </header>
+
+  <main class="main" role="main">
+
+    <div class="text">
+      <h1>Contact</h1>
+      <h2>Get in touch</h2>
+<p>You can reach FOSS through the main office at Slavens School:</p>
+<p>Friends of Slavens School<br />
+3000 South Clayton St<br />
+Denver, CO 80210</p>
+<p>Or through e-mail at <a href="mailto:info@friendsofslavens.org">info@friendsofslavens.org</a></p>    </div>
+
+  </main>
+
+  <footer class="footer cf" role="contentinfo">
+
+    <div class="copyright">
+      <p>© 2009-2017<br />
+Friends of Slavens School<br />
+<a href="privacy">Privacy Policy</a></p>    </div>
+
+  </footer>
+
+</body>
+</html>

@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1.0">
+
+  <title>Friends of Slavens School | Art</title>
+  <meta name="description" content="Friends of Slavens School (FOSS) is a 501(c)(3) non-profit organization whose funds pay for the things at Slavens School that are not covered by Denver Public Schools.">
+  <meta name="keywords" content="Kirby,CMS,file-based">
+
+  <link href="https://fonts.googleapis.com/css?family=Fjalla+One" rel="stylesheet">
+
+  <link rel="stylesheet" href="../assets/css/main.css">
+</head>
+<body>
+
+  <header class="header cf" role="banner">
+    <a class="logo" href="../index.html">
+      <img src="../assets/images/logo-purple.png" alt="Friends of Slavens School" />
+    </a>
+    <nav role="navigation">
+
+  <ul class="menu cf">
+        <li>
+      <a  href="../about">About</a>
+
+      
+    </li>
+        <li>
+      <a  class="active" href="../support">Support</a>
+
+            <ul class="submenu">
+                <li>
+          <a href="stem">STEM</a>
+        </li>
+                <li>
+          <a href="music">Music</a>
+        </li>
+                <li>
+          <a href="art">Art</a>
+        </li>
+                <li>
+          <a href="more">And More!</a>
+        </li>
+              </ul>
+      
+    </li>
+        <li>
+      <a  href="../contact">Contact</a>
+
+      
+    </li>
+        <li>
+      <a  href="../donate">Donate</a>
+
+      
+    </li>
+      </ul>
+
+</nav>
+  </header>
+
+  <main class="main" role="main">
+
+    <h1>Art</h1>
+
+    <div class="text">
+      <p>FOSS helps with Art at Slavens help it grow and thrive.</p>
+<h2>Art Supplies</h2>
+<p>FOSS makes sure the school's art programs have all the necessary materials.</p>
+<h2>Art Framing</h2>
+<p>When student art needs framing, FOSS is there to make sure it happens.</p>
+<h2>Fall Arts Festival</h2>
+<p>Our Fall Arts Festival is a chance for our students to show off their artistic creations.  FOSS helps with materials and food!</p>
+            <figure>
+        <img src="../content/2-support/3-art/r5.jpg" alt="Art">
+      </figure>
+          </div>
+
+    <nav class="nextprev cf" role="navigation">
+            <a class="prev" href="music">&larr; previous</a>
+                  <a class="next" href="more">next &rarr;</a>
+          </nav>
+
+  </main>
+
+  <footer class="footer cf" role="contentinfo">
+
+    <div class="copyright">
+      <p>© 2009-2017<br />
+Friends of Slavens School<br />
+<a href="../privacy">Privacy Policy</a></p>    </div>
+
+  </footer>
+
+</body>
+</html>

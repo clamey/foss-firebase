@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1.0">
+
+  <title>Friends of Slavens School | About</title>
+  <meta name="description" content="Friends of Slavens School (FOSS) is a 501(c)(3) non-profit organization whose funds pay for the things at Slavens School that are not covered by Denver Public Schools.">
+  <meta name="keywords" content="Kirby,CMS,file-based">
+
+  <link href="https://fonts.googleapis.com/css?family=Fjalla+One" rel="stylesheet">
+
+  <link rel="stylesheet" href="assets/css/main.css">
+</head>
+<body>
+
+  <header class="header cf" role="banner">
+    <a class="logo" href="index.html">
+      <img src="assets/images/logo-purple.png" alt="Friends of Slavens School" />
+    </a>
+    <nav role="navigation">
+
+  <ul class="menu cf">
+        <li>
+      <a  class="active" href="about">About</a>
+
+      
+    </li>
+        <li>
+      <a  href="support">Support</a>
+
+            <ul class="submenu">
+                <li>
+          <a href="support/stem">STEM</a>
+        </li>
+                <li>
+          <a href="support/music">Music</a>
+        </li>
+                <li>
+          <a href="support/art">Art</a>
+        </li>
+                <li>
+          <a href="support/more">And More!</a>
+        </li>
+              </ul>
+      
+    </li>
+        <li>
+      <a  href="contact">Contact</a>
+
+      
+    </li>
+        <li>
+      <a  href="donate">Donate</a>
+
+      
+    </li>
+      </ul>
+
+</nav>
+  </header>
+
+  <main class="main" role="main">
+
+    <div class="text">
+      <h1>About</h1>
+      <h2>Our Mission</h2>
+<p>Formed in 1996, FOSS is a 501(c)3 charity charged with the goal of raising money to ensure Slavens students don’t lose out on a well-rounded education featuring key courses including art, music, foreign language and STEM.</p>
+<h2>What We Do</h2>
+<p>Giving our kids access to these extras not only makes for a better school experience, but helps create future leaders and great thinkers. Recent FOSS funding includes paying the salary of our STEM facilitator, as well as providing a new sound system for the gym/auditorium, band scholarships, Spanish books and art festival support, among other gifts.</p>
+<h2>What We Need</h2>
+<p>FOSS is dedicated to giving the extras to every child, every day but we can’t do it without every family participating. We recommend $150 per student (that’s less than $1 per day), but no donation is too small. If we all give what we can, we will reach our annual goal!</p>
+<h2>Annual Reports</h2>
+<p><a href="content/1-about/2015-2016-report.pdf">2015-2016 Report</a><br />
+<a href="content/1-about/foss-2014-15-annual-report.pdf">2014-2015 Report</a><br />
+<a href="content/1-about/2013_report.png">2013-2014 Report</a><br />
+<a href="content/1-about/2012_report.png">2012-2013 Report</a><br />
+<a href="content/1-about/2011_report.gif">2011-2012 Report</a></p>
+<h2>2016-2017 FOSS Board</h2>
+<p><strong>Chair</strong>, Annie Schildwachter<br />
+<strong>Vice Chair</strong>, Andrea Bunn<br />
+<strong>Treasurer</strong>,  David May<br />
+<strong>Secretary</strong>,  Beth Sundberg<br />
+<strong>Marketing</strong>,  Mike Leuteneker<br />
+<strong>Web Master</strong>, Topher Lamey<br />
+<strong>App Liaison</strong>, Zuben Bastani<br />
+<strong>PTA Liaison</strong>, Heather Platt<br />
+<strong>Acknowledgments</strong>, Laura Droy &amp; Emily Pruisner<br />
+<strong>Grandparents’ Day</strong>, Marcy Mendenhall &amp; Erin Martin<br />
+<strong>Database</strong>, Stephanie Chamberlain &amp; Hoss Dolan<br />
+<strong>At-Large</strong>, Meghan Baker, Tina Cushmam,  Bob Graham, &amp; Marni Warren<br />
+<strong>Advisor</strong>, Amy Long<br />
+<strong>Principal</strong>, Kurt Siebold</p>
+<h2>Our Tax ID</h2>
+<p>EIN 84-1561434</p>    </div>
+
+  </main>
+
+  <footer class="footer cf" role="contentinfo">
+
+    <div class="copyright">
+      <p>© 2009-2017<br />
+Friends of Slavens School<br />
+<a href="privacy">Privacy Policy</a></p>    </div>
+
+  </footer>
+
+</body>
+</html>
