@@ -5,4 +5,5 @@ DNS
 - Everything but default and www records point to Google
 
 Firebase
-- App is foss-firebase
+- foss-firebase
+- www redirects to base domain
